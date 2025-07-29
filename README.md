@@ -36,8 +36,8 @@ This is a backend RESTful API for an E-Commerce application built using **Spring
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/shubham-username/ecommerce-springboot.git
-cd ecommerce-springboot
+git clone https://github.com/shubh-07-lk/E-commerse.git
+cd E-commerse
 ```
 
 ### 2. Set Up MySQL Database
@@ -142,7 +142,7 @@ src/
 
 **Shubham Kalashetty**
 
-Connect with me on [LinkedIn](https://www.linkedin.com/)
+Connect with me on [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/shubham-kalashetty-b02941272/))
 
 ---
 
